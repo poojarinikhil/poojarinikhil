@@ -8,4 +8,4 @@ I'm am Nikhil Poojari
 
 -	🐍 I’m interested in learning python
 
--🟢 Working on Desktop Assisant based on python
+- 🟢 Working on Desktop Assisant based on python
