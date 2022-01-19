@@ -6,4 +6,6 @@ I'm am Nikhil Poojari
 
 - 📱  I’m currently learning App Development 
 
-- 🍀 I’m interested in learning python
+-	🐍 I’m interested in learning python
+
+-🟢 Working on Desktop Assisant based on python
