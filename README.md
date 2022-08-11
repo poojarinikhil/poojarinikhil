@@ -10,4 +10,4 @@ I'm am Nikhil Poojari
 
 - 🟢 Working on Exploratory Data Analysis of Datasets 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poojarinikhil-z&langs_count=5&theme=midnight-purple)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poojarinikhil&langs_count=5&theme=midnight-purple)]()
