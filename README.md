@@ -4,8 +4,8 @@
 
 - 💻 I'm am an Engineering Student at DBIT
 
-- 📱  I’m currently learning Web Development 
+- 📱  I’m currently learning Android Development
 
--	🐍 I’m interested in learning python
+-	🐍 I’m interested in Machine learning
 
-- 🟢 Working on Exploratory Data Analysis of Datasets 
+- 🟢 Working on Question answering NLP Model
