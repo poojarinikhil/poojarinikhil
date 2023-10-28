@@ -6,7 +6,15 @@
 
 ###
 
-<h2 align="left">I Code with</h2>
+<h2 align="left">🔭 Currently Working On :</h2>
+
+###
+
+<p align="left">Multi-class Classification of Ovarian Cancer and Prediction of decease Survival Rate</p>
+
+###
+
+<h2 align="left">💻 Technology Stack :</h2>
 
 ###
 
@@ -28,11 +36,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="43" alt="pandas logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="43" alt="tensorflow logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="43" alt="arduino logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="43" alt="unity logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
 </div>
 
 ###
 
-<h2 align="left">Github Stats📈</h2>
+<h2 align="left">📈 Github Stats :</h2>
 
 ###
 
@@ -42,8 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojarinikhil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<h2 align="left">How to Get Involved</h2>
+<h2 align="left">🤝 How to Get Involved :</h2>
 
 ###
 
@@ -51,7 +68,7 @@
 
 ###
 
-<h2 align="left">My Socials</h2>
+<h2 align="left">✉️ Contact Me :</h2>
 
 ###
 
@@ -70,5 +87,11 @@
 ###
 
 <p align="left">Thank you for visiting my GitHub profile. I hope you find my projects interesting and inspiring. Happy coding! 🚀</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/poojarinikhil/count.svg?"  />
+</div>
 
 ###
